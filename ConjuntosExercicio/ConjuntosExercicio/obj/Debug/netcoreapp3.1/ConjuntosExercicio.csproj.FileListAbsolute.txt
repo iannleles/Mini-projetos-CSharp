@@ -1,0 +1,11 @@
+C:\Users\iannl\OneDrive\Documentos\ws-projetos C#\ConjuntosExercicio\ConjuntosExercicio\bin\Debug\netcoreapp3.1\ConjuntosExercicio.exe
+C:\Users\iannl\OneDrive\Documentos\ws-projetos C#\ConjuntosExercicio\ConjuntosExercicio\bin\Debug\netcoreapp3.1\ConjuntosExercicio.deps.json
+C:\Users\iannl\OneDrive\Documentos\ws-projetos C#\ConjuntosExercicio\ConjuntosExercicio\bin\Debug\netcoreapp3.1\ConjuntosExercicio.runtimeconfig.json
+C:\Users\iannl\OneDrive\Documentos\ws-projetos C#\ConjuntosExercicio\ConjuntosExercicio\bin\Debug\netcoreapp3.1\ConjuntosExercicio.runtimeconfig.dev.json
+C:\Users\iannl\OneDrive\Documentos\ws-projetos C#\ConjuntosExercicio\ConjuntosExercicio\bin\Debug\netcoreapp3.1\ConjuntosExercicio.dll
+C:\Users\iannl\OneDrive\Documentos\ws-projetos C#\ConjuntosExercicio\ConjuntosExercicio\bin\Debug\netcoreapp3.1\ConjuntosExercicio.pdb
+C:\Users\iannl\OneDrive\Documentos\ws-projetos C#\ConjuntosExercicio\ConjuntosExercicio\obj\Debug\netcoreapp3.1\ConjuntosExercicio.csprojAssemblyReference.cache
+C:\Users\iannl\OneDrive\Documentos\ws-projetos C#\ConjuntosExercicio\ConjuntosExercicio\obj\Debug\netcoreapp3.1\ConjuntosExercicio.AssemblyInfoInputs.cache
+C:\Users\iannl\OneDrive\Documentos\ws-projetos C#\ConjuntosExercicio\ConjuntosExercicio\obj\Debug\netcoreapp3.1\ConjuntosExercicio.AssemblyInfo.cs
+C:\Users\iannl\OneDrive\Documentos\ws-projetos C#\ConjuntosExercicio\ConjuntosExercicio\obj\Debug\netcoreapp3.1\ConjuntosExercicio.dll
+C:\Users\iannl\OneDrive\Documentos\ws-projetos C#\ConjuntosExercicio\ConjuntosExercicio\obj\Debug\netcoreapp3.1\ConjuntosExercicio.pdb

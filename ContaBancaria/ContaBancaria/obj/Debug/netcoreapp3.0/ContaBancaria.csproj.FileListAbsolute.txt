@@ -1,0 +1,11 @@
+C:\Users\iannl\OneDrive\Documentos\ws-projetos C#\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp3.0\ContaBancaria.exe
+C:\Users\iannl\OneDrive\Documentos\ws-projetos C#\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp3.0\ContaBancaria.deps.json
+C:\Users\iannl\OneDrive\Documentos\ws-projetos C#\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp3.0\ContaBancaria.runtimeconfig.json
+C:\Users\iannl\OneDrive\Documentos\ws-projetos C#\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp3.0\ContaBancaria.runtimeconfig.dev.json
+C:\Users\iannl\OneDrive\Documentos\ws-projetos C#\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp3.0\ContaBancaria.dll
+C:\Users\iannl\OneDrive\Documentos\ws-projetos C#\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp3.0\ContaBancaria.pdb
+C:\Users\iannl\OneDrive\Documentos\ws-projetos C#\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp3.0\ContaBancaria.csprojAssemblyReference.cache
+C:\Users\iannl\OneDrive\Documentos\ws-projetos C#\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp3.0\ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\iannl\OneDrive\Documentos\ws-projetos C#\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp3.0\ContaBancaria.AssemblyInfo.cs
+C:\Users\iannl\OneDrive\Documentos\ws-projetos C#\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp3.0\ContaBancaria.dll
+C:\Users\iannl\OneDrive\Documentos\ws-projetos C#\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp3.0\ContaBancaria.pdb
