@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fanquia Minutos", "Fanquia Minutos.csproj", "{255FB687-34B3-4DA4-8CA7-9EF9FE34BF50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{255FB687-34B3-4DA4-8CA7-9EF9FE34BF50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{255FB687-34B3-4DA4-8CA7-9EF9FE34BF50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{255FB687-34B3-4DA4-8CA7-9EF9FE34BF50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{255FB687-34B3-4DA4-8CA7-9EF9FE34BF50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E200BC8A-61B2-466F-AFA5-A1619BD9E6C0}
+	EndGlobalSection
+EndGlobal

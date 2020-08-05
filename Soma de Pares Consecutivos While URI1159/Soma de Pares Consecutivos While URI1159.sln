@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soma de Pares Consecutivos While URI1159", "Soma de Pares Consecutivos While URI1159.csproj", "{43543815-478A-4BA4-8F3E-FC15C90E296D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43543815-478A-4BA4-8F3E-FC15C90E296D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43543815-478A-4BA4-8F3E-FC15C90E296D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43543815-478A-4BA4-8F3E-FC15C90E296D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43543815-478A-4BA4-8F3E-FC15C90E296D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC32C62B-5E6D-494B-9911-0EE928CAEB66}
+	EndGlobalSection
+EndGlobal
